@@ -8,8 +8,6 @@ The design is clean, modern, and optimized for both desktop and mobile devices.
 
 The project demonstrates foundational web development skills, including layout creation, navigation, and styling using CSS.
 
-##Instructions to Run the Project
-
 #Steps to Run
 
-Clone the Repository: https://github.com/Bela2002/SpiritX_DevDreamers_Project01.git
+Clone the Repository: https://github.com/Bela2002/Explora-Travel-Website.git
